@@ -2,7 +2,9 @@ package teste;
 
 public class Teste {
     public static void main(String[] args) {
-        System.out.println("capeta");
-        
+        int num1 =1, num2 =5, soma;
+        soma= num1 = num2;
+        System.out.println(soma);
+
     }
 }
